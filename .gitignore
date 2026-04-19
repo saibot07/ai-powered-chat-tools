@@ -1,0 +1,94 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.lock
+.idea/
+.vscode/
+venv/
+node_modules/
+coverage/
+dist/
+build/
+__pycache__/
+*.bak
+*.orig
+*.rej
+*.sublime-workspace
+*.sublime-project
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+env/
+*.env
+*.venv
+.envrc
+*.egg-info/
+.eggs/
+*.pytest_cache/
+test-results.xml
+.pytest_cache/
+.mypy_cache/
+.pytype/
+.pyre/
+
+# Node.js
+npm-debug.log*
+yarn-error.log
+pnp.js
+.pnp.js
+.pnp.loader.js
+.nyc_output/.logs/
+.parcel-cache
+.next/
+.nuxt/
+out/
+
+# Go
+gopkg.lock
+gopkg.toml
+go.sum
+bin/
+.tmp/
+*.test
+
+# OS-specific and JetBrains-specific
+*.iml
+*.ipr
+*.iws
+*.idea/
+.idea_modules/
+workspace.xml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/watcherTasks.xml
+.idea/recentProjects.xml
+.idea/description.xml
+.idea/scopes.xml
+.idea/license.xml
+.idea/libraries.xml
+.xml_version_1
+
+# Visual Studio Code
+.history
+*.code-workspace
+.vscode-server/**
+
+# Miscellaneous
+*.log.result
+session_store/**
+.test-results/
+artifacts/
+*.orig
+# Backup and temp files
+*.bak
+*.swp
+*.tmp
+.swp/timestamps/**
+content/**/*.bak/temp/
+*.ummap/**
